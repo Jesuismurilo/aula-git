@@ -12,6 +12,6 @@ var produto = parseFloat(prompt("Digite o produto:"));
 var quantidade = parseFloat(prompt("Digite a quantidade vendida:"));
 var valor = parseFloat(prompt("Digite o valor do produto:"));
 var valorTotal = Quantidade*valor;
-var valor = parseFloat(prompt("Digite o valor a converter:"));
+var porcentagem
 
 
