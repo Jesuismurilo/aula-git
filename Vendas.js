@@ -18,7 +18,7 @@ var porcentagemDecimal =  porcentagemDesconto /100;
 var descontoReais = totalVenda + porcentagemDecimal;
 var totalDesconto = totalVenda - descontoReais;
 
-console.log ( "O produto" + nomeProduto + "gerou un total de: " + totalDesconto + "a pagar. " );
+console.log ( "O produto" + nomeProduto + "gerou un total de:  " + totalDesconto + "a pagar. " );
 
 
 
